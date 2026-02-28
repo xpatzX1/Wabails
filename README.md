@@ -1,7 +1,7 @@
 # XPATZX MODIFIED BAILEYS
 
 <p align="center">
-  <img src="https://j.top4top.io/p_3709hu93e0.jpg" alt="Thumbnail" width="95%" />
+  <img src="https://j.top4top.io/p_3709hu93e0.jpg" alt="Thumbnail" width="99%" />
 </p>
 
 OTAX Baileys is an open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently and directly. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, as well as interactive messages and action buttons for a more dynamic user experience.
